@@ -66,7 +66,7 @@ How to Run the Notebook
 
 Download or clone the repository:
 
-git clone <your_repo_url>
+git clone [<your_repo_url>](https://github.com/Mohitvarma4948/ML-tutorial/tree/main)
 cd <repo_folder>
 
 
